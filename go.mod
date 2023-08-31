@@ -1,4 +1,4 @@
-module bank_customer_proto
+module github.com/siddhardhk24/bank_customer_proto
 
 go 1.18
 

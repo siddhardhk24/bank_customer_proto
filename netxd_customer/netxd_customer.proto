@@ -1,6 +1,6 @@
 syntax ="proto3";
 
-option go_package ="github.com/siddhardhk24/bank_customer_proto.git";
+option go_package ="github.com/siddhardhk24/bank_customer_proto";
 
 package netxd_customer;
 
